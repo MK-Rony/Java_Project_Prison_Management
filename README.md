@@ -1,2 +1,2 @@
-# Prison-Management
+# Prison_Management
 Java project
